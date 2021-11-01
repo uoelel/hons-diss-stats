@@ -1,0 +1,35 @@
+/* Custom CSS */
+
+.title-slide h2 {
+    margin-top: -25px;
+    padding-bottom: -20px;
+    text-shadow: none;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+#stefano-coretta {
+    font-weight: bold;
+}
+
+.title-slide h3 {
+    text-shadow: none;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 3em;
+    text-align: left;
+    margin-left: 15px;
+    margin-bottom: -30px;
+}
+
+.remark-slide-content {
+    font-size: 30px;
+    padding: 1em 4em 1em 4em;
+}
+
+.smaller-font {
+    font-size: 20px;
+}
